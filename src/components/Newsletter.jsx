@@ -38,12 +38,12 @@ const navigate = useNavigate();
         <section className="bg-white md:p-5 rounded-3xl flex flex-col md:flex-row-reverse justify-between">
           <div className=" ">
             <img
-              src="../assets/images/illustration-sign-up-mobile.svg"
+              src="/public/images/illustration-sign-up-mobile.svg"
               alt="mockup for mobile"
               className="md:hidden w-full"
             />
             <img
-              src="../assets/images/illustration-sign-up-desktop.svg"
+              src="/public/images/illustration-sign-up-desktop.svg"
               alt="mockup for desktop"
               className="hidden md:block"
             />
@@ -55,15 +55,15 @@ const navigate = useNavigate();
             </p>
             <ul>
               <span className="flex items-start space-x-3">
-                <img src="../assets/images/icon-list.svg" alt=" ckeck icon" />
+                <img src="/public/images/icon-list.svg" alt=" ckeck icon" />
                 <li>Product discovery and building what matters</li>
               </span>
               <span className="flex items-start space-x-3 my-5">
-                <img src="../assets/images/icon-list.svg" alt="check icon" />
+                <img src="/public/images/icon-list.svg" alt="check icon" />
                 <li>Measuring to ensure updates are a success</li>
               </span>
               <span className="flex items-start space-x-3">
-                <img src="../assets/images/icon-list.svg" alt="check icon" />
+                <img src="/public/images/icon-list.svg" alt="check icon" />
                 <li>And much more!</li>
               </span>
             </ul>

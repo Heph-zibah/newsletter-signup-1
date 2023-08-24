@@ -8,7 +8,7 @@ const Success = () => {
     <>
       <main className=" max-w-sm md:mx-auto md:mt-20 sm:flex sm:flex-col sm:justify-center  sm:items-center">
         <section className="bg-white px-5 md:p-5 rounded-3xl mt-24 ">
-          <img src="../assets/images/icon-success.svg" alt="check icon" />
+          <img src="/public/images/icon-success.svg" alt="check icon" />
           <h1 className="font-bold text-4xl my-5 text-darkSlateGrey">
             Thanks for subscribing!
           </h1>
