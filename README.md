@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](/src/assets/images/Newsletter-Signup.png)
+![](/src/assets/Newsletter-Signup.png)
 
 ### Links
 
